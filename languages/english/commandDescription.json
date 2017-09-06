@@ -1,6 +1,6 @@
 {
   "createChannel": "Создать новый текстовый или голосовой канал на Вашем Discord-сервере.",
-  "createRole": "Creates a new role on your Discord server.",
+  "createRole": "Создать новую роль на Вашем Discord-сервере.",
   "deleteChannel": "Deletes the specified text or voice channel from your Discord server.",
   "deleteRole": "Deletes the specified role from your Discord server.",
   "iAm": "Gives the specified self-assignable role to the user.",
